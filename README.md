@@ -6,4 +6,4 @@ Launch the notebook(File)
 
 With Voila (URL):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/baltricks/ml-learning/HEAD?urlpath=voila%2Frender%2Fsharing.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/baltricks/ml-learning/HEAD?urlpath=voila%2Frender%MyPublicMachineLearning.ipynb)
